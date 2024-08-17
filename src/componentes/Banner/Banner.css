@@ -1,0 +1,13 @@
+.banner {
+    background-color: #6278F7;
+    text-align: center;
+    width: 100vw; /* Garante que o banner ocupe 100% da largura da viewport */
+    margin: 0; /* Remove margem externa */
+    padding: 0; /* Remove preenchimento interno */
+  }
+  
+  .banner img {
+    width: 100%; /* Garante que a imagem ocupe 100% da largura do banner */
+    height: auto; /* Mantém a proporção da imagem */
+  }
+  
